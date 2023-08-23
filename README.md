@@ -20,6 +20,7 @@ pip install streamlit langchain
 streamlit run your_app_name.py
 ```
 Replace your_app_name.py with the name of the Python file containing the provided code.
+
 ## How to Use
 
 Once you have the app running, a web page will open in your browser showing the title "ASCII Artify."
@@ -31,6 +32,9 @@ After entering the article, click the "Generate ASCII Art" button.
 The app will process the input article using the GPT-3.5 Turbo model and generate an ASCII art representation based on the content of the article.
 
 The generated ASCII art will be displayed below the button.
+
+<img width="870" alt="Captura de pantalla 2023-08-23 a la(s) 11 23 29 a m" src="https://github.com/ebiwonjumit/textToASCII/assets/31973148/db604855-a661-47b9-ac41-c9581e73bb7a">
+
 
 ## Notes
 
